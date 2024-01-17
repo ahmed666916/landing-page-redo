@@ -13,3 +13,12 @@
     
     
 }
+
+
+.header-container {
+    display: flex;
+}
+
+.image-row {
+    display: flex;
+}
