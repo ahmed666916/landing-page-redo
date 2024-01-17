@@ -4,20 +4,32 @@
     
 }
 
+.header {
+    background-color: #1F2937;
+}
+
 .navigation-container{
     display: flex;
     justify-content: space-between;
+    color:#F9FAF8 ;
 }
 
 .navigation {
     display: flex;
     
     
+    
+    
 }
+
 
 
 .header-container {
     display: flex;
+}
+
+.text{
+    color: #F9FAF8;
 }
 
 .image-row {
