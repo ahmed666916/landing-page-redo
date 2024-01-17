@@ -1,4 +1,15 @@
-.navigation {
+*{
+    margin: 20px;
+    
+}
+
+.navigation-container{
     display: flex;
     justify-content: space-between;
+}
+
+.navigation {
+    display: flex;
+    
+    
 }
