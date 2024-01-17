@@ -22,10 +22,22 @@
     
 }
 
+.navigation li{
+    list-style:none ;
+}
+
+.navigation li a{
+    color:#F9FAF8 ;
+}
+
 
 
 .header-container {
     display: flex;
+}
+
+.header-container a{
+    color:#F9FAF8
 }
 
 .text{
