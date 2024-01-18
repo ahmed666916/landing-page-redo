@@ -94,6 +94,11 @@
     padding-top: 20px;
 }
 
+.content {
+    flex: 1; /* Allow content to take remaining space */
+}
+
+
 .container-action h4,
 .container-action p {
     margin: 0; /* Remove default margin to reduce space */
@@ -107,4 +112,12 @@
 }
 .container-action .button a{
     color: #E5E7EB;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+
+
 }
