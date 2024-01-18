@@ -89,6 +89,12 @@
     padding-top: 20px;
     max-width: 600px; /* Set your desired max-width */
     margin: 0 auto; /* Center the container horizontally */
+    
+    
+}
+
+.container-action .call{
+    margin: auto;
 }
 
 .content {
@@ -104,6 +110,7 @@
 
 .container-action .button {
     margin-left: auto; /* Move the button to the right */
+    border: 1px solid;
     
     
 }
