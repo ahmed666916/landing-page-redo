@@ -1,5 +1,5 @@
 *{
-    border: 1px solid red;
+    
     margin: 20px;
     
 }
@@ -75,23 +75,21 @@
     
 }
 
-.container-action{
-    background-color: #3882F6;
-    color: #F9FAF8;
-}
+
 
 .container-action {
     display: flex;
     flex-direction: column;
     align-items: center;
-    
-}
-.container-action {
+    background-color: #3882F6;
+    color: #F9FAF8;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: left; /* Align text to the left within the container */
     padding-top: 20px;
+    max-width: 600px; /* Set your desired max-width */
+    margin: 0 auto; /* Center the container horizontally */
 }
 
 .content {
@@ -118,6 +116,5 @@
     background-color: #1F2937;
     color: #E5E7EB;
     text-align: center;
-
-
+    padding: 3px;
 }
