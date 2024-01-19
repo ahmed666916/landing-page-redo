@@ -16,7 +16,9 @@
 
 .logo{
     font-size: 24px;
+    
 }
+
 
 .navigation {
     display: flex;
@@ -32,6 +34,7 @@
 
 .navigation li a{
     color:#F9FAF8 ;
+    text-decoration: none;
 }
 
 
@@ -42,6 +45,7 @@
 
 .header-container a{
     color:#F9FAF8
+    
 }
 
 .text{
@@ -53,6 +57,13 @@
     font-size: 48px;
 }
 
+.text a{
+    text-decoration: none;
+    padding: 3px;
+    border: 1px solid #3882F6;
+    background-color: #3882F6;
+}
+
 .main h1{
     font-size: 36px;
     color: #1F2937;
@@ -60,13 +71,14 @@
 
 .image-row {
     display: flex;
+    
 }
 
 .container-quote{
     display: flex;
     flex-direction: column;
-    width: 100%;
-    justify-content: space-between;
+    width: 90%;
+    justify-content: center;
     background-color: #E5E7EB;
 }
 
